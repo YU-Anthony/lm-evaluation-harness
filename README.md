@@ -100,10 +100,10 @@ Here are some results for LAMBADA task:
 |       |                  |acc| 0.3996 |±| 0.0068 |
 |       |T5-large-lm-adapt |ppl|1576.739|±|204.8895|
 |       |                  |acc| 0.418 |±| 0.0069 |
-|       |     T0_3B        |ppl|113079.6175|±|17162.7004|
-|       |                  |acc| 0.0470 |±| 0.0029 |
-|       |     T0pp        |ppl|6552.9149|±|757.4522|
+|       |     T0_3B        |ppl|6552.9149|±|757.4522|
 |       |                  |acc| 0.0745 |±| 0.0037 |
+|       |     T0pp        |ppl|113079.6175|±|17162.7004|
+|       |                  |acc| 0.0470 |±| 0.0029 |
 
 Here are results from LAMBADA paper:
 ![](https://img-blog.csdnimg.cn/f170ef21774d4998aa8063657d273c7c.png?x-oss-process=image)
